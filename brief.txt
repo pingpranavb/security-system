@@ -1,0 +1,4 @@
+The raspberry pi 4 security system was the first time i used a Raspberry PI. This project i did it at the age of 14 in january 2026. I got second rank in VIT robotica 2026.
+In this system, theres 
+Face recognition, security questions and RFID.
+The face recognition, i made an AI model from scratch and used the face recognition library. 
